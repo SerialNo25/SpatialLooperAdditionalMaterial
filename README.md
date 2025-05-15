@@ -1,5 +1,5 @@
 # SpatialLooperAdditionalMaterial
-This repository hosts redirect pages for external material referenced in the Spatial Looper bachelor thesis.  
+This repository hosts redirect pages for external material referenced in the [Spatial Looper bachelor thesis](https://github.com/SerialNo25/TheSpatialLooper):
 Each HTML file provides a persistent link that can be updated independently of the actual video or content location.
 
 ## Purpose
